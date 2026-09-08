@@ -21,6 +21,9 @@ Knowing where a large codebase hides its landmines is most of the job.
   makes a large legacy Objective-C codebase legible to a coding agent: class and
   category resolution, import graphs, string-dispatch discovery, and Swift
   migration ranking. Built out of the consulting work above.
+- **[agent-ready-ios](https://github.com/fonixland/agent-ready-ios)** — the method
+  that tool came out of: why agents struggle in Objective-C codebases, the four
+  steps that fix it, and the skills and templates I install to do it.
 
 Older repositories on this account are archived and mostly of historical
 interest. The `SunGard-iOS-API` one is a self-discovered API for a closed
